@@ -4,4 +4,5 @@
 * [zookeeper学习](zookeeperxue-xi.md)
 * [onap](onap.md)
 * [docker](docker.md)
+* [linux commands](linux-commands.md)
 
