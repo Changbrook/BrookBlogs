@@ -8,4 +8,5 @@
 * [openstack](openstack.md)
 * [openstack comands](openstack-comands.md)
 * [intellij](intellij.md)
+* [oracle](oracle.md)
 
