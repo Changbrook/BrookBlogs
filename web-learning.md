@@ -10,3 +10,5 @@
 
 由于客户端是通过URL地址访问web服务器中的资源，所以Servlet程序若想被外界访问，必须把servlet程序映射到一个URL地址上，这个工作在web.xml文件中使用&lt;servlet&gt;元素和&lt;servlet-mapping&gt;元素完成
 
+同一个Servlet可以被映射到多个URL上，即多个&lt;servlet-mapping&gt;元素的&lt;servlet-name&gt;子元素的设置值可以是同一个Servlet的注册名。
+
