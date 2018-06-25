@@ -12,3 +12,5 @@
 
 同一个Servlet可以被映射到多个URL上，即多个&lt;servlet-mapping&gt;元素的&lt;servlet-name&gt;子元素的设置值可以是同一个Servlet的注册名。
 
+在Servlet的配置文件web.xml中，可以使用一个或多个&lt;init-param&gt;标签为servlet配置一些初始化参数。
+
