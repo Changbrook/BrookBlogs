@@ -4,3 +4,9 @@
 
 在HTTP1.1协议，允许客户端与web服务器建立连接后，在一个连接上获取多个web资源。
 
+
+
+#### serverlet相关
+
+由于客户端是通过URL地址访问web服务器中的资源，所以Servlet程序若想被外界访问，必须把servlet程序映射到一个URL地址上，这个工作在web.xml文件中使用&lt;servlet&gt;元素和&lt;servlet-mapping&gt;元素完成
+
