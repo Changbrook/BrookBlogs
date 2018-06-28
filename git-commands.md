@@ -12,7 +12,7 @@ git pull --all
 
 #### git 新建远程仓库
 
-Create a new repository
+##### Create a new repository
 
 git clone git@code-sh.huawei.com:OnapDevelopers/aaf.cadi.git
 
@@ -26,7 +26,7 @@ git commit -m "add README"
 
 git push -u origin master
 
-Existing folder
+##### Existing folder
 
 cd existing\_folder
 
@@ -40,7 +40,7 @@ git commit
 
 git push -u origin master
 
-Existing Git repository
+##### Existing Git repository
 
 cd existing\_repo
 
