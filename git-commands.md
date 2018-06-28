@@ -1,10 +1,14 @@
 #### git 从远程仓库获取所有分支
 
-git branch -r \| grep -v '\-&gt;' \| while read remote; do git branch --track "${remote\#origin/}" "$remote"; done
 
+
+```
+git branch -r | grep -v '\->' | while read remote; do git branch --track "${remote#origin/}" "$remote"; done
 git fetch --all
-
 git pull --all
+```
+
+
 
 #### git 新建远程仓库
 
