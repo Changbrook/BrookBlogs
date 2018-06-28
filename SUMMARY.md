@@ -14,4 +14,5 @@
 * [web learning](web-learning.md)
 * [maven](maven.md)
 * [git commands](git-commands.md)
+* [ubuntu remote desktop](ubuntu-remote-desktop.md)
 
