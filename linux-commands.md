@@ -46,3 +46,6 @@ grep -r "text" /
 
 xmkey for 5.0.730
 150320-116396-999990
+
+linux下 /etc/profile、~/.bash_profile ~/.profile的执行过程
+https://blog.csdn.net/caiwenfeng_for_23/article/details/44242961
