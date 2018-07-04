@@ -49,3 +49,6 @@ xmkey for 5.0.730
 
 linux下 /etc/profile、~/.bash_profile ~/.profile的执行过程
 https://blog.csdn.net/caiwenfeng_for_23/article/details/44242961
+
+统计代码行数
+find . -name "*.java" -or -name "*.xml"|xargs grep -v "^$"|wc -l
