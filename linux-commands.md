@@ -52,3 +52,8 @@ https://blog.csdn.net/caiwenfeng_for_23/article/details/44242961
 
 统计代码行数
 find . -name "*.java" -or -name "*.xml"|xargs grep -v "^$"|wc -l
+
+mount与umount
+mount可以让一个设备对应多个目录，目录内容是一样的
+umount某个目录，数据还在设备中
+
