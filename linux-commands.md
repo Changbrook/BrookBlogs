@@ -57,3 +57,6 @@ mount与umount
 mount可以让一个设备对应多个目录，目录内容是一样的
 umount某个目录，数据还在设备中
 
+ssh服务器安装
+sudo apt-get install openssh-server
+
