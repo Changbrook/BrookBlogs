@@ -10,7 +10,7 @@
 
 Username	z00351890
 Domain		china
-Password	812hwcode*
+Password	*
 # NOTE: Use plaintext password only at your own risk
 # Use hashes instead. You can use a "cntlm -M" and "cntlm -H"
 # command sequence to get the right config for your environment.
@@ -29,7 +29,6 @@ PassNT          74E6AF13FA19D85704C736C8B1D08E05
 # List of parent proxies to use. More proxies can be defined
 # one per line in format <proxy_ip>:<proxy_port>
 #
-Proxy		172.18.32.221:8080
 #Proxy		10.0.0.42:8080
 
 # List addresses you do not want to pass to parent proxies
