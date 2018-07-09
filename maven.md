@@ -11,6 +11,8 @@ mvn help:effective-pom
 
 #### pom变量
 https://www.cnblogs.com/doit8791/p/7774973.html
+#### maven 多项目编译
+https://www.cnblogs.com/xdp-gacl/p/4242221.html
 
 
 
