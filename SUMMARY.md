@@ -15,7 +15,7 @@
 * [maven](maven.md)
 * [git commands](git-commands.md)
 * [ubuntu remote desktop](ubuntu-remote-desktop.md)
-* [temp](temp.md)
+* [java web](temp.md)
 * [cntlm.ini](cntlmini.md)
 * [java](java.md)
 
