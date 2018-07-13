@@ -58,3 +58,8 @@ umount某个目录，数据还在设备中
 #### ssh服务器安装
 sudo apt-get install openssh-server
 
+#### ubuntu1604服务器版安装远程桌面登陆
+sudo apt-get install xrdp
+sudo apt-get install xubuntu-desktop
+echo "xfce4-session" >~/.xsession
+sudo service xrdp restart
