@@ -19,4 +19,5 @@
 * [cntlm.ini](cntlmini.md)
 * [java](java.md)
 * [ebookdir](ebookdir.md)
+* [proxysettings](proxysettings.md)
 
