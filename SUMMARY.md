@@ -20,4 +20,5 @@
 * [java](java.md)
 * [ebookdir](ebookdir.md)
 * [proxysettings](proxysettings.md)
+* [onap\_architecture](onaparchitecture.md)
 
