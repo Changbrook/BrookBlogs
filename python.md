@@ -102,3 +102,5 @@ _foo: 以单下划线开头的表示的是 protected 类型的变量，即保护
 
 __foo: 双下划线的表示的是私有类型(private)的变量, 只能是允许这个类本身进行访问了。
 
+### pip 代理安装
+pip install --proxy http://username:password@proxyIP:proxyPort flask
