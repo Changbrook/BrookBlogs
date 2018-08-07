@@ -27,3 +27,7 @@ https://www.ibm.com/developerworks/cn/java/j-spring-boot-basics-perry/index.html
 1.Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
 2. DriverManager.registerDriver(new com.mysql.jdbc.Driver());
 3.System.setProperty("jdbc.drivers", "com.mysql.jdbc.Driver");
+
+
+#### hashmap和hashtable
+[HashMap 和 HashTable 到底哪不同](http://www.importnew.com/24822.html)
