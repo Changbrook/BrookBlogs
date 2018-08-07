@@ -13,7 +13,6 @@
 * [mongodb](mongodb.md)
 * [onap\_architecture](onaparchitecture.md)
 * [maven](maven.md)
-* [ubuntu remote desktop](ubuntu-remote-desktop.md)
 * [java](java.md)
 * [java web](temp.md)
 * [web learning](web-learning.md)
