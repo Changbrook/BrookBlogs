@@ -24,4 +24,5 @@
 * [pythonNotes](pythonnotes.md)
 * [小鸣单车](xiao-ming-dan-che.md)
 * [workInfo](workinfo.md)
+* [vba\_crack](vbacrack.md)
 
