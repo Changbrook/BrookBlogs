@@ -17,3 +17,6 @@
 #### swagger工具
 https://huangwenchao.gitbooks.io/swagger/content/
 postman工具也不错。
+
+### npm代理设置
+https://blog.csdn.net/yanzi1225627/article/details/80247758
