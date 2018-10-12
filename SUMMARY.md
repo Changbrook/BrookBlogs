@@ -27,4 +27,5 @@
 * [vba\_crack](vbacrack.md)
 * [spring\_boot](springboot.md)
 * [background\_picture](backgroundpicture.md)
+* [huaweipeople](huaweipeople.md)
 
